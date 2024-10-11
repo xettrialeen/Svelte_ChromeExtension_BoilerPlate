@@ -20,7 +20,7 @@ This project is a boilerplate for creating Chrome extensions using Svelte and Vi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/svelte-chrome-extension-boilerplate.git
+   git clone https://github.com/xettrialeen/Svelte_ChromeExtension_BoilerPlate.git
    cd svelte-chrome-extension-boilerplate
    ```
 
